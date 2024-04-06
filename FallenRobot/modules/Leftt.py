@@ -1,4 +1,4 @@
-from FallenRobot import app
+from FallenRobot import pbot as app
 from pyrogram import Client, filters
 from pyrogram.errors import RPCError
 from pyrogram.types import ChatMemberUpdated, InlineKeyboardMarkup, InlineKeyboardButton
