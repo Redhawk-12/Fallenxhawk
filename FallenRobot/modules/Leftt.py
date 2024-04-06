@@ -51,7 +51,7 @@ async def get_userinfo_img(
 
 
 bg_path = "FallenRobot/resources/Lefttt.png"
-font_path = "FallenRobot/resources/font.ttf"
+font_path = "FallenRobot/resources/fonts/font.otf"
 
 
 @app.on_chat_member_updated(filters.group, group=20)
