@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "Hawk x Management",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://graph.org/file/f3d91455a046ad72cc6e2.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/Redhawk-12/Fallenxhawk",
    "stack": "heroku-22",
    "addons": [
       {
